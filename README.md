@@ -17,6 +17,8 @@ Erode and Dilate the image.
 End Program.
 ## Program:
 ``` Python
+# Developed By   : R ARUNRAJ
+# Register Number: 212220230004
 # Import the necessary packages
 import cv2
 import numpy as np
